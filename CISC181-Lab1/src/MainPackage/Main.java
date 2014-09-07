@@ -6,6 +6,7 @@ import java.lang.Math;
 public class Main {
 
 	public static void main(String[] args){
+		// second commit
 		Scanner input = new Scanner(System.in);
 		
 		System.out.println("How many years will you work? ");
